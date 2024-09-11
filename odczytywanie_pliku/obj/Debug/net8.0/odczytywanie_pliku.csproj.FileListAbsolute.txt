@@ -1,0 +1,14 @@
+C:\Users\olek\source\repos\odczytywanie_pliku\odczytywanie_pliku\bin\Debug\net8.0\odczytywanie_pliku.exe
+C:\Users\olek\source\repos\odczytywanie_pliku\odczytywanie_pliku\bin\Debug\net8.0\odczytywanie_pliku.deps.json
+C:\Users\olek\source\repos\odczytywanie_pliku\odczytywanie_pliku\bin\Debug\net8.0\odczytywanie_pliku.runtimeconfig.json
+C:\Users\olek\source\repos\odczytywanie_pliku\odczytywanie_pliku\bin\Debug\net8.0\odczytywanie_pliku.dll
+C:\Users\olek\source\repos\odczytywanie_pliku\odczytywanie_pliku\bin\Debug\net8.0\odczytywanie_pliku.pdb
+C:\Users\olek\source\repos\odczytywanie_pliku\odczytywanie_pliku\obj\Debug\net8.0\odczytywanie_pliku.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\olek\source\repos\odczytywanie_pliku\odczytywanie_pliku\obj\Debug\net8.0\odczytywanie_pliku.AssemblyInfoInputs.cache
+C:\Users\olek\source\repos\odczytywanie_pliku\odczytywanie_pliku\obj\Debug\net8.0\odczytywanie_pliku.AssemblyInfo.cs
+C:\Users\olek\source\repos\odczytywanie_pliku\odczytywanie_pliku\obj\Debug\net8.0\odczytywanie_pliku.csproj.CoreCompileInputs.cache
+C:\Users\olek\source\repos\odczytywanie_pliku\odczytywanie_pliku\obj\Debug\net8.0\odczytywanie_pliku.dll
+C:\Users\olek\source\repos\odczytywanie_pliku\odczytywanie_pliku\obj\Debug\net8.0\refint\odczytywanie_pliku.dll
+C:\Users\olek\source\repos\odczytywanie_pliku\odczytywanie_pliku\obj\Debug\net8.0\odczytywanie_pliku.pdb
+C:\Users\olek\source\repos\odczytywanie_pliku\odczytywanie_pliku\obj\Debug\net8.0\odczytywanie_pliku.genruntimeconfig.cache
+C:\Users\olek\source\repos\odczytywanie_pliku\odczytywanie_pliku\obj\Debug\net8.0\ref\odczytywanie_pliku.dll
